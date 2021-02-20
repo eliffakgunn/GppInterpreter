@@ -16,8 +16,8 @@ clisp gpp_interpreter.lisp or clisp gpp_interpreter.lisp <file_name>
 
 There is a makefile in this part.  
   
-make
-./gpp_interpreter.out or ./gpp_interpreter.out <file_name> 
+make  
+./gpp_interpreter.out or ./gpp_interpreter.out <file_name>  
   
 *In both part, if you enter file name as parameter, it reads file. Otherwise program enters into REPL mode.*  
 
